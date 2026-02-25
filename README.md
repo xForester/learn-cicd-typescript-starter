@@ -1,4 +1,4 @@
-https://github.com/xForester/learn-cicd-typescript-starter/actions/workflows/ci/badge.svg
+https://github.com/xForester/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg
 
 # learn-cicd-typescript-starter (Notely)
 
